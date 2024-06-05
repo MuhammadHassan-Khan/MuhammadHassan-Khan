@@ -1,9 +1,9 @@
-<h1>Muhammad Hassan Khan</h1>
+<h2>Hello!👋, I'm Muhammad Hassan Khan</h2>
 
-<h3>Muhammad Hassan Khan - Web Developer from Pakistan and Computer Science Student<br>
+<h5>Muhammad Hassan Khan - Web Developer from Pakistan and Computer Science Student<br>
 
 Welcome to my GitHub profile! I am passionate about web development and currently I am 1st year student in Computer Science. Explore my repositories to see my projects and contributions.
-</h3>
+</h5>
 
 
 - 👋 Hi, I’m Muhammad Hassan Khan
