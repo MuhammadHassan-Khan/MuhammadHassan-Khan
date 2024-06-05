@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about web development and currentl
 
 - 👋 Hi, I’m Muhammad Hassan Khan
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Backend Development and English languages
 - 💞️ I’m looking to collaborate on open source software projects and web development  
 - 📫 How to reach me hassanaleem125@gmail.com
 - 😄 Pronouns: he/him/his
